@@ -1,1 +1,1 @@
-# regex-explanation
+# How to understand a RegEx for an Email
